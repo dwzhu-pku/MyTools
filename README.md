@@ -1,2 +1,2 @@
 # MyTools
-my tools from nlp tasks
+my tools for nlp tasks
